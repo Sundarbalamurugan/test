@@ -1,1 +1,1 @@
-print("HAHAHAHAHHAHHA")
+print("EAT SAMOSA with pannneeeerrr")
